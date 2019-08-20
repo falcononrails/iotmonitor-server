@@ -1,0 +1,4 @@
+{
+  "connectionString": "mongodb://localhost/iotDashboard",
+  "secret": "IoTSecret2019++EHTP"
+}
